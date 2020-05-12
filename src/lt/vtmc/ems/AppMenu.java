@@ -17,11 +17,14 @@ public class AppMenu {
 
     private void arithmeticCalculateMenu() throws Exception {
         // TODO
-        System.out.print("First number: ");
+        String skaicius = "Iveskite skaiciu: ";
+        String operator = "Operacija: ";
+
+        System.out.print(skaicius);
         int x = Integer.parseInt(input.next());
-        System.out.print("Second number: ");
+        System.out.print(skaicius);
         int y = Integer.parseInt(input.next());
-        System.out.print("Operator: ");
+        System.out.print(operator);
         String op = input.next();
 
         int z = 0;
