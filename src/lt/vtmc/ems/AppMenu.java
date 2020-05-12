@@ -21,13 +21,13 @@ public class AppMenu {
         String operator = "Operacija: ";
 
         System.out.print(skaicius);
-        int x = Integer.parseInt(input.next());
+        double x = Integer.parseInt(input.next());
         System.out.print(skaicius);
-        int y = Integer.parseInt(input.next());
+        double y = Integer.parseInt(input.next());
         System.out.print(operator);
         String op = input.next();
 
-        int z = 0;
+        double z = 0;
 
         if (op.equals("+")) {
             z = x + y;
@@ -45,6 +45,7 @@ public class AppMenu {
 
     private void exitMenu() {
         // TODO
+
         System.out.println("Continue (y/n): ");
         String read = input.next().toLowerCase();
         char close = read.charAt(0);
