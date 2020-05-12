@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="319ce104-456d-4577-a811-7f8d00c865c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/SimpleCalculator/lt/vtmc/ems/AppMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SimpleCalculator/lt/vtmc/ems/AppMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiroslavCalc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/vtmc/ems/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtmc/ems/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +30,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -65,21 +70,40 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1440" height="221" key="GridCell.Tab.0.bottom" timestamp="1589300692824">
+    <state x="458" y="235" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589305768419">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1440" height="221" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1589300692824" />
-    <state width="1440" height="221" key="GridCell.Tab.0.center" timestamp="1589300692822">
+    <state x="458" y="235" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.830@0.23.1440.830" timestamp="1589305768419" />
+    <state width="1440" height="221" key="GridCell.Tab.0.bottom" timestamp="1589305822309">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1440" height="221" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1589300692822" />
-    <state width="1440" height="221" key="GridCell.Tab.0.left" timestamp="1589300692822">
+    <state width="1440" height="221" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1589305822309" />
+    <state width="1440" height="221" key="GridCell.Tab.0.center" timestamp="1589305822308">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1440" height="221" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1589300692822" />
-    <state width="1440" height="221" key="GridCell.Tab.0.right" timestamp="1589300692823">
+    <state width="1440" height="221" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1589305822308" />
+    <state width="1440" height="221" key="GridCell.Tab.0.left" timestamp="1589305822307">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1440" height="221" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1589300692823" />
+    <state width="1440" height="221" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1589305822307" />
+    <state width="1440" height="221" key="GridCell.Tab.0.right" timestamp="1589305822308">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1440" height="221" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1589305822308" />
+    <state x="208" y="23" width="1024" height="830" key="SettingsEditor" timestamp="1589305806053">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="208" y="23" width="1024" height="830" key="SettingsEditor/0.23.1440.830@0.23.1440.830" timestamp="1589305806053" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lt/vtmc/ems/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
